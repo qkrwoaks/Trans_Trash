@@ -3,6 +3,8 @@
 💡 **Trans Trash**는 환경오염을 주제로 콜라주 기법을 사용한 플랫포머 2D 게임입니다.<br>
 <br>
 [스토어 링크](https://play.google.com/store/apps/details?id=com.DefaultCompany.Stac)
+<br><br>
+[개발 Repository 가기](https://github.com/SmarteenApp/Stac_Game)<br>
 <br>
 📆 제작 기간 : 2022.04 ~ 2022.09 (약 5개월)
 
